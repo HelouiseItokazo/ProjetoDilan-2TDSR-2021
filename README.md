@@ -1,2 +1,2 @@
 # ProjetoDilan-2TDSR-2021
-#Exemplo de uso do Git
+#Exemplo de uso do Git + Desktop
